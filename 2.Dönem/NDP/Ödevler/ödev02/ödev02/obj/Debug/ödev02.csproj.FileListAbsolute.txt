@@ -1,0 +1,8 @@
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\bin\Debug\ödev02.exe.config
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\bin\Debug\ödev02.exe
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\bin\Debug\ödev02.pdb
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\obj\Debug\ödev02.csproj.AssemblyReference.cache
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\obj\Debug\ödev02.csproj.SuggestedBindingRedirects.cache
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\obj\Debug\ödev02.csproj.CoreCompileInputs.cache
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\obj\Debug\ödev02.exe
+C:\Users\MahmudEmreBaşpehliva\Desktop\Ödev\ödev02\ödev02\obj\Debug\ödev02.pdb
